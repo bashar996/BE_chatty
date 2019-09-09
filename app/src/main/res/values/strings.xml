@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BE</string>
+    <string name="need_new_account">Need New Account</string>
+    <string name="your_name">your Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="log_out">Log out</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="all_accounts">All Accounts</string>
+    <string name="let_s_create_a_new_account">Let\'s Create A New Account!</string>
+    <string name="be_chat_app">Welcome to BE Chat APP</string>
+    <string name="sign_in">Sign in</string>
+    <string name="welcome_back">Welcome Back!!</string>
+</resources>
